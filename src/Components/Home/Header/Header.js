@@ -13,7 +13,7 @@ const Header = () => {
                 <Button variant="link" className="ml-3 mt-2 rounded-pill">Watch Video</Button>
             </div>
             <div className="col-md-6">
-                <img src={picture} alt="headerPicture" className="img-fluid headerPicture"/>
+                <img src={picture} alt="headerPicture" className="img-fluid headerPicture" />
             </div>
         </main>
     );
