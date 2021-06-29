@@ -1,11 +1,11 @@
 import React from 'react';
-import Navbar from '../Shared/Navbar/Navbar';
+import Menubar from '../Shared/Menubar/Menubar';
+
 
 const Home = () => {
     return (
         <div>
-            <Navbar/>
-            
+            <Menubar/>            
         </div>
     );
 };
