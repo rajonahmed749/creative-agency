@@ -1,6 +1,6 @@
 # Creative Agency
 
- #### `This technology i used this project is given below: `
+ #### This technology i used this project is given below: 
     i.React 
     ii.React Bootstrap
 
