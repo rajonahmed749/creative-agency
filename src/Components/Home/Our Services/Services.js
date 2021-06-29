@@ -9,17 +9,17 @@ const Services = () => {
         {
             service: "Grow Your Businness",
             picture: servicePicture,
-            description:"We always help your Company to grow with us",            
+            description: "We always help your Company to grow with us",
         },
         {
             service: "Drive more sales",
             picture: servicePicture2,
-            description:"We always help your Company to grow with us"
+            description: "We always help your Company to grow with us"
         },
         {
             service: "Handle by Expert",
             picture: servicePicture3,
-            description:"You dont need to worry because we are profesonal"
+            description: "You dont need to worry because we are profesonal"
         },
     ]
     return (
@@ -30,7 +30,7 @@ const Services = () => {
                         serviceData.map(service => <ServicesCard service={service}></ServicesCard>)
                     }
                 </div>
-             </div>
+            </div>
         </div>
     );
 };

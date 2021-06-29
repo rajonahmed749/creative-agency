@@ -1,9 +1,14 @@
-.testimonials .container{
+.testimonials .container {
     background-image: url(../../../images/quote.png);
     background-repeat: no-repeat;
     background-position: top right;
     background-size: 150px;
 }
-.qute{
+
+.qute {
     width: 35px;
+}
+
+.testimonialPhoto {
+    width: 50px;
 }
