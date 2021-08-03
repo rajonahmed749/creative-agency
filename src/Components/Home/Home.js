@@ -12,7 +12,7 @@ import Work from './Work/Work';
 const Home = () => {
     return (
         <div>
-            <Menubar />
+            {/* <Menubar /> */}
             <Header />
             <Commitment />
             <Services />
