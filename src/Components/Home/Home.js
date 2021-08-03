@@ -12,8 +12,7 @@ import Work from './Work/Work';
 const Home = () => {
     return (
         <div>
-            {/* <Menubar /> */}
-            <h1 className="text-center"> WOW! Its working without build</h1>
+            <Menubar />
             <Header />
             <Commitment />
             <Services />

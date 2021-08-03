@@ -7,4 +7,6 @@
 
 ### ` Check the live preview`
 
-    https://sharp-minsky-2ee73f.netlify.app/
+    https://sharp-minsky-2ee73f.netlify.app/ 
+    
+    https://creative-agency-simple.vercel.app/
