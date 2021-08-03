@@ -13,6 +13,7 @@ const Home = () => {
     return (
         <div>
             {/* <Menubar /> */}
+            <h1 className="text-center"> WOW! Its working without build</h1>
             <Header />
             <Commitment />
             <Services />
